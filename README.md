@@ -55,9 +55,9 @@ Aspiring Software Developer | Backend & Full Stack | Laravel | SQL
 ### 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DurvankurSonar&show_icons=true" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DurvankurSonar&theme=default" />
 </p>
+
 
 
 ---
@@ -65,8 +65,9 @@ Aspiring Software Developer | Backend & Full Stack | Laravel | SQL
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DurvankurSonar&layout=compact&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DurvankurSonar&theme=default" />
 </p>
+
 
 
 ---
