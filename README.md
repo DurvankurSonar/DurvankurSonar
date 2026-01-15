@@ -9,7 +9,13 @@ Aspiring Software Developer | Backend & Full Stack | Laravel | SQL
 - 🎓 Computer Science Student  
 - 💻 Passionate about **Backend Development, SQL, and Scalable Systems** 
 - 📫 Email: **sonardurva194@gmail.com**  
-- 🌐 Portfolio: **http://durvankur.lovestoblog.com/**  
+- 🌐 Portfolio: **http://durvankur.lovestoblog.com/**
+- ### 🌐 Portfolio
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-Live-success?style=for-the-badge)](http://durvankur.lovestoblog.com/)
+
+🔗 http://durvankur.lovestoblog.com/
+ 
 
 ---
 
