@@ -51,25 +51,6 @@ Aspiring Software Developer | Backend & Full Stack | Laravel | SQL
 
 ---
 
-### 🚀 Projects
-
-#### 🗳️ Blockchain Based E-Voting System
-- Secure and transparent online voting system  
-- Prevents vote tampering and duplicate voting  
-- **Tech Used:** Blockchain, Node.js, MySQL  
-
-🔗 https://github.com/DurvankurSonar/Blockchain-based-Evoting-System
-
----
-
-#### 🏢 HR & Payroll Management System (SQL Project)
-- Automated employee, salary, attendance & payroll processing  
-- Implemented **Stored Procedures, Triggers, Indexing & Transactions**  
-- **Tech Used:** MySQL, SQL  
-
-🔗 https://github.com/DurvankurSonar/hr-payroll-system
-
----
 
 ### 📊 GitHub Stats
 
