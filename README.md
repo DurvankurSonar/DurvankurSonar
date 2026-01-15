@@ -59,20 +59,6 @@ Aspiring Software Developer | Backend & Full Stack | Laravel | SQL
 </p>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DurvankurSonar" />
-</p>
-
----
-
-### 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DurvankurSonar&theme=default" />
-</p>
-
-
-
 ---
 
 ### 🔗 Connect With Me
