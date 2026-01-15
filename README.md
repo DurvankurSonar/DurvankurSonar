@@ -15,6 +15,22 @@ Aspiring Software Developer | Backend & Full Stack | Laravel | SQL
 [![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-Live-success?style=for-the-badge)](http://durvankur.lovestoblog.com/)
 
 🔗 http://durvankur.lovestoblog.com/
+
+
+
+### 🌐 Portfolio Walkthrough
+
+![Portfolio Demo](assets/portfolio-demo.gif)
+
+🔗 Live: http://durvankur.lovestoblog.com/
+
+
+
+
+### 🌐 Live Portfolio Preview
+
+[![Portfolio Preview](https://img.shields.io/badge/View%20My%20Portfolio-Live-blue?style=for-the-badge)](http://durvankur.lovestoblog.com/)
+
  
 
 ---
