@@ -59,6 +59,9 @@ Aspiring Software Developer | Backend & Full Stack | Laravel | SQL
 </p>
 
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DurvankurSonar" />
+</p>
 
 ---
 
