@@ -4,7 +4,6 @@ Aspiring Software Developer | Backend & Full Stack | Laravel | SQL
 </h3>
 
 ---
-![](https://komarev.com/ghpvc/?username=DurvankurSonar&label=Profile%20views)
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student  
