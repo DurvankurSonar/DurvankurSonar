@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Durvankur Sonar</h1>
 <h3 align="center">
-Aspiring Software Developer | Backend & Full Stack | Laravel | SQL
+Aspiring Software Developer | Backend & Full Stack | Java | Laravel | SQL
 </h3>
 
 ---
