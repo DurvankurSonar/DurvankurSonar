@@ -75,14 +75,24 @@ Aspiring Software Developer | Backend & Full Stack | Java | Laravel | SQL
 
 ⭐ *Thank you for visiting my profile. Feel free to explore my repositories and connect with me!* -->
 
+
+
+
+
+
+
+
+
+
+
 <!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Durvankur%20Sonar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Durvankur%20Sonar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20and%20Backend%20Developer&descSize=20&descAlignY=60" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Core+Java+%7C+J2EE+%7C+Laravel+%7C+SQL;B.Tech+CSE+Graduate+%28CGPA+9.32%29;Building+Scalable+Backend+Systems;Open+to+Software+Developer+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Core+Java+%7C+J2EE+%7C+SQL+%2F+PL-SQL;Laravel+%7C+REST+APIs+%7C+MySQL;B.Tech+CSE+%7C+CDAC+PG-DAC;Open+to+Software+Developer+Opportunities" alt="Typing SVG" />
   </a>
 </p>
 
@@ -97,11 +107,12 @@ Aspiring Software Developer | Backend & Full Stack | Java | Laravel | SQL
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science and Engineering** (CGPA 9.32), currently pursuing the **CDAC PG Diploma in Advanced Computing**
+- 🎓 **B.Tech in Computer Science and Engineering** (CGPA **9.32**), currently pursuing the **CDAC PG Diploma in Advanced Computing**
 - 💼 **7 months of industry experience** as a Software Developer Intern (Laravel, PHP, MySQL, REST APIs)
 - ☕ Strong in **Core Java, J2EE and SQL / PL-SQL**, building full-stack applications
-- 🏆 3rd Rank in the CSE Department, 2nd Place at a National-Level Technical Project Exhibition, Mahindra All India Talent Scholarship recipient
-- 🌱 Always learning: Data Structures & Algorithms, system design, clean code
+- 🏆 **3rd Rank in the CSE Department**
+- 🌱 Always learning: **Data Structures and Algorithms, system design, clean code**
+- 📫 Reach me at **sonardurva194@gmail.com**
 
 ---
 
@@ -109,91 +120,107 @@ Aspiring Software Developer | Backend & Full Stack | Java | Laravel | SQL
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cpp&theme=dark" />
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logoColor=white" />
 </p>
 
 ### ☕ Java Technologies
 <p>
-  <img src="https://img.shields.io/badge/J2EE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/J2EE-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Servlets-5382A1?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSP-E34F26?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP-C0392B?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-16A085?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&theme=dark" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-### ⚙️ Backend
+### ⚙️ Backend Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,php&theme=dark" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-6C3FC5?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-005571?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,maven,vscode,eclipse&theme=dark" />
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-C74634?style=for-the-badge" />
 </p>
 
 ### 🧠 Concepts
 <p>
-  <img src="https://img.shields.io/badge/OOPs-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agile-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SDLC-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JSON-F59E0B?style=for-the-badge&logo=json&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST%20API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOPs-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile%20Methodology-2ECC71?style=for-the-badge&labelColor=1b1b1b" />
+  <img src="https://img.shields.io/badge/JSON-F1C40F?style=for-the-badge&logo=json&logoColor=black" />
+  <img src="https://img.shields.io/badge/SDLC-E67E22?style=for-the-badge" />
 </p>
 
----
-
-## 💼 Experience
-
-**Software Developer Intern** · Softanic Solutions Pvt. Ltd., Jalgaon · *May 2025 – Nov 2025*
-- Built and maintained full-stack modules using **Laravel, PHP, JavaScript, Bootstrap and MySQL**
-- Designed, integrated and tested **RESTful APIs** with Postman
-- Implemented **authentication and authorization** workflows
-- Wrote SQL queries and **PL/SQL stored procedures**, and handled debugging and performance optimization in an Agile team
-
----
-
-## 🚀 Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| 🚆 **Train Ticket Reservation System** | Full-stack app with user and admin panels: train search, seat availability, booking, payment simulation, e-tickets and booking history | Java J2EE, Servlets, JSP, JDBC, Oracle SQL, Bootstrap, Maven, Tomcat |
-| 💰 **SQL-based HR & Payroll System** | Relational payroll database with stored procedures for salary, tax/PF deductions and reports | SQL, PL/SQL, Triggers, Views, Indexing, Transactions |
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux&theme=dark" />
+</p>
 
 ---
 
 ## 🎓 Education
 
-- **CDAC PG Diploma in Advanced Computing**, SMVITA, Juhu, Mumbai · *Aug 2026 – Feb 2027 (pursuing)*
-- **B.Tech in Computer Science and Engineering**, G.H. Raisoni College of Engineering and Management, Jalgaon · *CGPA 9.32*
-- **Diploma in Computer Engineering**, Government Polytechnic, Jalgaon · *88.11%*
+| Program | Institute | Duration |
+|---|---|---|
+| 🎓 **PG Diploma in Advanced Computing (CDAC)** | SMVITA, Juhu, Mumbai | Aug 2026 – Feb 2027 |
+| 🎓 **B.Tech in Computer Science and Engineering** (CGPA 9.32, 3rd Rank in Dept.) | G.H. Raisoni College, Jalgaon | 2023 – 2026 |
+
+---
+
+## 💼 Experience
+
+**Software Developer Intern, Softanic Solutions, Jalgaon** (May 2025 – Nov 2025)
+- Built full-stack modules using **Laravel, PHP and MySQL**
+- Developed and integrated **REST APIs**
+- Worked in an **Agile** team on real client projects
+
+---
+
+## 🚀 Projects
+
+| Project | Tech Stack |
+|---|---|
+| 🚆 **Train Ticket Reservation System** | Java, J2EE, Oracle |
+| 💰 **HR and Payroll System** | SQL |
+
+👉 More on my [**Repositories**](https://github.com/DurvankurSonar?tab=repositories) page.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DurvankurSonar&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DurvankurSonar&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=DurvankurSonar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DurvankurSonar&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DurvankurSonar&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DurvankurSonar&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DurvankurSonar&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DurvankurSonar&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-00b4d8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-6C3FC5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Code-22c55e?style=for-the-badge" />
 </p>
 
 ---
@@ -204,7 +231,12 @@ Aspiring Software Developer | Backend & Full Stack | Java | Laravel | SQL
   <a href="https://www.linkedin.com/in/durvankursonar/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
   <a href="https://github.com/DurvankurSonar"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
   <a href="mailto:sonardurva194@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
-  <a href="http://durvankur.lovestoblog.com/"><img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="http://durvankur.lovestoblog.com/">
+    <img src="https://img.shields.io/badge/👉%20Visit%20My%20Portfolio-00b4d8?style=for-the-badge&labelColor=0F2027" />
+  </a>
 </p>
 
 <p align="center">
