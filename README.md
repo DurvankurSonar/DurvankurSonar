@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DurvankurSonar&label=Profile%20Views&color=00b4d8&style=for-the-badge" />
+
   <a href="http://durvankur.lovestoblog.com/"><img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/durvankursonar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sonardurva194@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -85,35 +85,6 @@
 
 ---
 
-## 🎓 Education
-
-| Program | Institute | Duration |
-|---|---|---|
-| 🎓 **PG Diploma in Advanced Computing (CDAC)** | SMVITA, Juhu, Mumbai | Aug 2026 – Feb 2027 |
-| 🎓 **B.Tech in Computer Science and Engineering** (CGPA 9.32, 3rd Rank in Dept.) | G.H. Raisoni College, Jalgaon | 2023 – 2026 |
-
----
-
-## 💼 Experience
-
-**Software Developer Intern, Softanic Solutions, Jalgaon** (May 2025 – Nov 2025)
-- Built full-stack modules using **Laravel, PHP and MySQL**
-- Developed and integrated **REST APIs**
-- Worked in an **Agile** team on real client projects
-
----
-
-## 🚀 Projects
-
-| Project | Tech Stack |
-|---|---|
-| 🚆 **Train Ticket Reservation System** | Java, J2EE, Oracle |
-| 💰 **HR and Payroll System** | SQL |
-
-👉 More on my [**Repositories**](https://github.com/DurvankurSonar?tab=repositories) page.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -122,16 +93,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DurvankurSonar&theme=tokyonight" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-00b4d8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-6C3FC5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean%20Code-22c55e?style=for-the-badge" />
 </p>
 
 ---
