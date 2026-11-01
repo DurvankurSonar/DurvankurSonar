@@ -83,8 +83,6 @@ Aspiring Software Developer | Backend & Full Stack | Java | Laravel | SQL
 
 
 
-
-
 <!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Durvankur%20Sonar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20and%20Backend%20Developer&descSize=20&descAlignY=60" width="100%" />
@@ -200,6 +198,10 @@ Aspiring Software Developer | Backend & Full Stack | Java | Laravel | SQL
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="./profile-2yr.svg" alt="Contributions in the last 2 years" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=DurvankurSonar&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -210,7 +212,6 @@ Aspiring Software Developer | Backend & Full Stack | Java | Laravel | SQL
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DurvankurSonar&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DurvankurSonar&theme=tokyonight" />
 </p>
 
 ---
