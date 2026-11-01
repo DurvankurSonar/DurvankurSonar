@@ -3,11 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Durvankur%20Sonar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20and%20Backend%20Developer&descSize=20&descAlignY=60" width="100%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Core+Java+%7C+J2EE+%7C+SQL+%2F+PL-SQL;Laravel+%7C+REST+APIs+%7C+MySQL;B.Tech+CSE+%7C+CDAC+PG-DAC;Open+to+Software+Developer+Opportunities" alt="Typing SVG" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Software%20Developer-22c55e?style=for-the-badge&labelColor=0F2027" />
