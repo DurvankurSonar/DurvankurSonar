@@ -77,10 +77,9 @@ Aspiring Software Developer | Backend & Full Stack | Java | Laravel | SQL
 
 
 
-
 <!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Durvankur%20Sonar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Developer&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Durvankur%20Sonar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20and%20Full%20Stack%20Developer&descSize=20&descAlignY=60" width="100%" />
 </p>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
