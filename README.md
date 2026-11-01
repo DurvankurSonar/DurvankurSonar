@@ -129,6 +129,23 @@
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DurvankurSonar&theme=tokyonight" />
 </p>
 
+
+<p align="center">
+  <img src="./profile-2yr.svg" alt="Contributions in the last 2 years" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DurvankurSonar&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DurvankurSonar&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DurvankurSonar&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DurvankurSonar&theme=tokyonight" />
+</p>
 ---
 
 ## 🌱 Currently Learning
