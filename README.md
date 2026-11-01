@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Software%20Developer-22c55e?style=for-the-badge&labelColor=0F2027" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=DurvankurSonar&label=Profile%20Views&color=00b4d8&style=for-the-badge" />
   <a href="http://durvankur.lovestoblog.com/"><img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/durvankursonar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
